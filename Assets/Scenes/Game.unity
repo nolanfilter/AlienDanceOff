@@ -114,6 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cf2d1d6ae8324324ab7d8cab280dc32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  music: {fileID: 0}
 --- !u!4 &929453072
 Transform:
   m_ObjectHideFlags: 0
@@ -185,7 +186,7 @@ Camera:
   near clip plane: .300000012
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
